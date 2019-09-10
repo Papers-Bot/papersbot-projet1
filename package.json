@@ -1,0 +1,12 @@
+{
+  "name": "projet",
+  "version": "0.1.0",
+  "description": "Projet Discord By Papers",
+  "main": "main.js",
+  "repository": "https://github.com/Papers-Bot/papersbot-projet1.git",
+  "author": "Papers-RSH <kelola@dot-coin.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
